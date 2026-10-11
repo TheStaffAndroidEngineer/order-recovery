@@ -1,0 +1,4 @@
+<resources>
+    <bool name="cg_light_system_bars">false</bool>
+    <color name="cg_window_surface">#12181D</color>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.CommonGoodsBars" parent="Theme.CommonGoodsBase">
+        <item name="android:navigationBarColor">@color/cg_window_surface</item>
+        <item name="android:windowLightNavigationBar">@bool/cg_light_system_bars</item>
+    </style>
+</resources>

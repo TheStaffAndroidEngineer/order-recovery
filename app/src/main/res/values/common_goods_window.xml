@@ -1,0 +1,12 @@
+<resources>
+    <bool name="cg_light_system_bars">true</bool>
+    <color name="cg_window_surface">#FFFFFF</color>
+    <style name="Theme.CommonGoodsBase" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/cg_window_surface</item>
+        <item name="android:statusBarColor">@color/cg_window_surface</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+        <item name="android:windowLightStatusBar">@bool/cg_light_system_bars</item>
+    </style>
+    <style name="Theme.CommonGoodsBars" parent="Theme.CommonGoodsBase" />
+    <style name="Theme.CommonGoods" parent="Theme.CommonGoodsBars" />
+</resources>

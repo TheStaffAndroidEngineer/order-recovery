@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-07",
+  "identity": "Common Goods",
+  "upstream_provenance": "projects/commerce-app/assets/provenance.json",
+  "files": [
+    {
+      "source": "projects/commerce-app/core/designsystem/src/main/res/font/google_sans_regular.ttf",
+      "destination": "projects/order-recovery/app/src/main/res/font/cg_google_sans_regular.ttf",
+      "sha256": "6de36a974bbaaeed26152b378e428ccc3f2295aa58b322ce34052320591971a2"
+    },
+    {
+      "source": "projects/commerce-app/core/designsystem/src/main/res/font/google_sans_bold.ttf",
+      "destination": "projects/order-recovery/app/src/main/res/font/cg_google_sans_bold.ttf",
+      "sha256": "a61b1cf42b921f0652a22b0b09298398798a172e452d21a4708c89b03693f3bc"
+    },
+    {
+      "source": "projects/commerce-app/core/designsystem/src/main/res/font/sora_bold.ttf",
+      "destination": "projects/order-recovery/app/src/main/res/font/cg_sora_bold.ttf",
+      "sha256": "109b00bb9e7804263c1d5fb0c725fe740e30cb83166c2023be52813d8c1c4fab"
+    },
+    {
+      "source": "projects/commerce-app/core/designsystem/src/main/assets/camera.png",
+      "destination": "projects/order-recovery/app/src/main/res/drawable-nodpi/cg_camera.png",
+      "sha256": "cd2f09a53bc70bf4163c1b3e6ba6a8d596ca945face96e6b984c1c3c7df8b440"
+    },
+    {
+      "source": "projects/commerce-app/core/designsystem/src/main/assets/tea.png",
+      "destination": "projects/order-recovery/app/src/main/res/drawable-nodpi/cg_tea.png",
+      "sha256": "c4b8a841dbd80295992844aa9252a7989821f5b253ae49e64fba80553a7ff7e9"
+    },
+    {
+      "source": "projects/commerce-app/core/designsystem/src/main/assets/bag.png",
+      "destination": "projects/order-recovery/app/src/main/res/drawable-nodpi/cg_bag.png",
+      "sha256": "b348cb224c7585903955ef98b6a0da070f7203e7cc7567febc5c28c2d1b0a6d8"
+    },
+    {
+      "source": "projects/commerce-app/core/designsystem/src/main/assets/headphones.png",
+      "destination": "projects/order-recovery/app/src/main/res/drawable-nodpi/cg_headphones.png",
+      "sha256": "d2534a4a3445ad7f13e0b310633bc052f97ab1dd6a10ffaaeea9a63109951001"
+    },
+    {
+      "source": "projects/commerce-app/core/designsystem/src/main/assets/licenses/sora-OFL.txt",
+      "destination": "projects/order-recovery/app/src/main/assets/licenses/sora-OFL.txt",
+      "sha256": "ba0b9729c9428ba79a0459ab8ec575791b51509dbec213e383d0316d37fec299"
+    },
+    {
+      "source": "projects/commerce-app/core/designsystem/src/main/assets/licenses/google-sans-OFL.txt",
+      "destination": "projects/order-recovery/app/src/main/assets/licenses/google-sans-OFL.txt",
+      "sha256": "2b75ef20f13d83a7514aee452c4782c20cdc9ff2dee17600f44d37a06d4fb958"
+    },
+    {
+      "source": "projects/compose-migration/app/src/main/res/drawable/ic_common_goods.xml",
+      "destination": "projects/order-recovery/app/src/main/res/drawable/cg_mark.xml",
+      "sha256": "bad7de101b2ac3d64464eb431d16052fd275f271b0e921aaac0cc13791bc8c22"
+    }
+  ]
+}
